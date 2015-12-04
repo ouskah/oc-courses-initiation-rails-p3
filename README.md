@@ -2,7 +2,6 @@
 
 https://openclassrooms.com/courses/initiez-vous-a-ruby-on-rails/que-deviennent-les-modeles
 
-
 * Que deviennent les modèles ?
 
 * L’association de modèles
@@ -14,5 +13,3 @@ https://openclassrooms.com/courses/initiez-vous-a-ruby-on-rails/que-deviennent-l
 * Exploitez les messages d’erreur
 
 * Les scopes
-
-* Mise en pratique
